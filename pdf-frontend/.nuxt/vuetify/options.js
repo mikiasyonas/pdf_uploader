@@ -1,0 +1,1 @@
+export default {"theme":{"dark":false,"themes":{"dark":{"primary":"#1a237e","accent":"#1a237e","secondary":"#ff8f00","info":"#26a69a","warning":"#ffc107","error":"#dd2c00","success":"#00e676"},"light":{"primary":"#1a237e","accent":"#1a237e","secondary":"#ff8f00","info":"#26a69a","warning":"#ffc107","error":"#dd2c00","success":"#00e676"}}}}

@@ -1,0 +1,20 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "OnePdf": {
+    "description": "Auto imported from components/OnePdf.vue"
+  },
+  "PdfList": {
+    "description": "Auto imported from components/PdfList.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "UploadForm": {
+    "description": "Auto imported from components/UploadForm.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}

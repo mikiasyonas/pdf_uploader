@@ -1,0 +1,30 @@
+[
+  {
+    "name": "DashBoard",
+    "path": "/DashBoard",
+    "component": "/home/mikias/Documents/Javascript/posterlabs_test/pdf-frontend/pages/DashBoard.vue",
+    "chunkName": "pages/DashBoard",
+    "_name": "_d4963462"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/mikias/Documents/Javascript/posterlabs_test/pdf-frontend/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_39662fd6"
+  },
+  {
+    "name": "UploadFile",
+    "path": "/UploadFile",
+    "component": "/home/mikias/Documents/Javascript/posterlabs_test/pdf-frontend/pages/UploadFile.vue",
+    "chunkName": "pages/UploadFile",
+    "_name": "_6c5e30d2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/mikias/Documents/Javascript/posterlabs_test/pdf-frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_647d2266"
+  }
+]
